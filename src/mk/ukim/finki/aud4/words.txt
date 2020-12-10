@@ -58829,7 +58829,7 @@ logotype's
 logotypes
 logrolling
 logrolling's
-logs
+realLogs
 loin
 loin's
 loincloth
@@ -85781,7 +85781,7 @@ squarely
 squareness
 squareness's
 squarer
-squares
+square1s
 squarest
 squaring
 squash

@@ -1,4 +1,4 @@
-package mk.ukim.finki.aud7;
+package mk.ukim.finki.aud8;
 
 import java.util.*;
 import java.util.function.Function;
